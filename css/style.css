@@ -1,0 +1,66 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.header_link {
+  font-weight: 18px;
+}
+
+.carousel_responsive {
+  width: 100%;
+}
+
+.carousel__img {
+  min-height: 350px;
+}
+
+.carousel_title {
+  font-size: 3.5vw;
+}
+
+.carousel_p {
+  font-size: 2vw;
+}
+
+.player {
+  height: 300px;
+}
+
+#card_three {
+  background-image: url("../icons/watermark.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+  box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+  border-radius: 26px;
+  transform: translateY(-30px);
+}
+
+.fa-regular {
+  background-color: rgba(82, 67, 194, 0.103693);
+  color: #5243c2;
+}
+
+#card_three .fa-regular {
+  background-color: rgba(82, 67, 194, 0.103693);
+  color: white;
+}
+
+#card_three_btn {
+  background-color: white;
+  color: blue;
+}
+
+.my_btn {
+  color: #0000ff;
+  background: #fef5fa;
+  border-radius: 24px;
+}
+
+.footer {
+  min-height: 200px;
+}
